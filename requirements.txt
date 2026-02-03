@@ -8,3 +8,4 @@ openpyxl==3.1.2
 statsmodels==0.14.1
 # plotly の静的画像出力を使う時のみ
 # kaleido==0.2.1
+# force rebuild
